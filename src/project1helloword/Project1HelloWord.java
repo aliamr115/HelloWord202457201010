@@ -16,7 +16,8 @@ public class Project1HelloWord {
 
     public static void main(String[] args) {
         System.out.println("Hello Word");
-        System.out.println("It's me Alia");
+        System.out.println("My Name is Alia Masrukhatur Rizkiyah");
+        System.out.println("you can call me Alia");
     }
     
 }
